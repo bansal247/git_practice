@@ -2,3 +2,8 @@ Banana
 Oranges
 Apples
 random
+
+Meat
+fish
+
+household
