@@ -6,5 +6,8 @@ random
 Meat
 Sausages
 fish
+bacon
+lamb
+beef
 
 household
